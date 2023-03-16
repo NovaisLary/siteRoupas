@@ -1,0 +1,45 @@
+body * {
+    font-family: 'Inter', sans-serif;
+  
+    list-style: none;
+    background-color:white;
+}
+
+.nav-item {
+     font-size:25px;
+}
+
+#quemsomos {
+    border: none;
+}
+
+
+section div {
+    padding-left: 27%;
+    padding-top: 15px;
+}
+
+
+section ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+section ul li {
+    transition: transform .3s;
+}
+
+section ul li:hover {
+    transform: scale(1.1)
+}
+
+.nossotime img {
+    border-radius: 45%; 
+    width: 150px;
+    border: 1px solid #443E54;
+}
+
+#roupas {
+    text-align: center;
+}
