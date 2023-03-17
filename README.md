@@ -6,7 +6,7 @@
 - `site reponsivo`: ele se adapta a qualquer tamanho de tela.
 - `Modelo de demonstração do produto`: pesquisar sobre o produto oferecido na barra.
 
-## tecnologia utilizada
+## Tecnologia utilizada
 Bootstrap  
 HTML  
 Css
